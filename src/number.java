@@ -10,6 +10,6 @@ public class number {
 
         int number = reader.nextInt();
 
-        System.out.println("You entered: " + number);
+        System.out.println("You entered number: " + number);
     }
 }
